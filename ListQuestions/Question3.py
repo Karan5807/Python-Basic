@@ -2,6 +2,7 @@
 
 print("----- Question 3 --------")
 print("------ Find sum and average of List in Python -------")
+print("Start entering the list Press 000 if List is Created ")
 print(" ----------------------------------------- ")
 
 new_List = []
